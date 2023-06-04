@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Design-n-Techie</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Design-n-Techie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jun 2023 15:22:27 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunday</title>
+      <link>http://example.org/blog/sunday-copy/</link>
+      <pubDate>Sun, 04 Jun 2023 15:22:27 +0530</pubDate>
+      
+      <guid>http://example.org/blog/sunday-copy/</guid>
+      <description>Something New Hosted today decio bvy</description>
+    </item>
+    
+    <item>
+      <title>Sunday</title>
+      <link>http://example.org/blog/sunday/</link>
+      <pubDate>Sun, 04 Jun 2023 15:22:27 +0530</pubDate>
+      
+      <guid>http://example.org/blog/sunday/</guid>
+      <description>Something New Hosted today</description>
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>http://example.org/post/sample/</link>
+      <pubDate>Sun, 04 Jun 2023 15:17:49 +0530</pubDate>
+      
+      <guid>http://example.org/post/sample/</guid>
+      <description>Sample Page</description>
+    </item>
+    
+    <item>
+      <title>Julia</title>
+      <link>http://example.org/post/julia/</link>
+      <pubDate>Sun, 04 Jun 2023 14:59:20 +0530</pubDate>
+      
+      <guid>http://example.org/post/julia/</guid>
+      <description>Installing Julia on Android using Termuc terminal Emulator</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/post/first/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>http://example.org/post/first/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>

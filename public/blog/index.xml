@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Design-n-Techie</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blogs on Design-n-Techie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jun 2023 15:22:27 +0530</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunday</title>
+      <link>http://example.org/blog/sunday-copy/</link>
+      <pubDate>Sun, 04 Jun 2023 15:22:27 +0530</pubDate>
+      
+      <guid>http://example.org/blog/sunday-copy/</guid>
+      <description>Something New Hosted today decio bvy</description>
+    </item>
+    
+    <item>
+      <title>Sunday</title>
+      <link>http://example.org/blog/sunday/</link>
+      <pubDate>Sun, 04 Jun 2023 15:22:27 +0530</pubDate>
+      
+      <guid>http://example.org/blog/sunday/</guid>
+      <description>Something New Hosted today</description>
+    </item>
+    
+  </channel>
+</rss>
