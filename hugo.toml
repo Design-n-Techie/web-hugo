@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Design-n-Techie'
-theme = 'PaperMod'
+theme = 'beautifulhugo'
